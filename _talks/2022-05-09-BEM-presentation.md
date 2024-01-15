@@ -1,5 +1,5 @@
 ---
-title: "No Easy Answers: Dramatic shifts in American lobster habitat and demography in the Gulf of Maine."
+title: "No Easy Answers: Dramatic shifts in American lobster habitat and demography in the Gulf of Maine"
 collection: talks
 type: "Oral Presentation"
 permalink: /talks/2022-05-09-BEM-presentation
@@ -8,7 +8,7 @@ date: 2022-05-09
 location: "Portsmouth, NH"
 ---
 
-Ph.D. Dissertation Research
+Ph.D. Dissertation Research at the University of Maine
 
 Jarrett, R., Steneck, R.
 
