@@ -2,7 +2,7 @@
 title: "Marine Ecology Teaching Assistant - Fall 2020 "
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2020-fall-TA
 venue: "School of Marine Sciences, University of Maine"
 date: 2020-09-01
 location: "Walpole, ME"
