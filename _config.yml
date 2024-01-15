@@ -82,9 +82,13 @@ analytics:
 author:
   name             : "Robert Jarrett"
   avatar           : "robertprofile.png"
-  bio              : "Marine Ecologist\nPh.D. Candidate"
+  bio              : |
+    Marine Ecologist <br>
+    Ph.D. Candidate
   location         : "Walpole, ME"
-  employer         : "Darling Marine Center\nUniversity of Maine"
+  employer         : |
+    Darling Marine Center <br>
+    University of Maine
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            :
