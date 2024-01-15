@@ -8,7 +8,7 @@ date: 2017-11-07
 location: "Providence, RI"
 ---
 
-Summer REU Research
+Summer REU Research at the University of Maryland
 
 Jarrett, R., Testa, J., Lyubchich, V.
 
