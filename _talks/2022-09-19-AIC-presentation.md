@@ -1,5 +1,5 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Difficulty Breathing: Assessing changes in behavior and measures of vitality of American lobster at reduced oxygen levels"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2013-03-01-tutorial-1
