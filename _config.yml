@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Robert Jarrett"
   avatar           : "robertprofile.png"
-  bio              : "Marine Ecologist | Ph.D. Candidate at University of Maine"
-  location         : "Location"
-  employer         :
+  bio              : "Marine Ecologist | Ph.D. Candidate"
+  location         : "Walpole, ME"
+  employer         : "Darling Marine Center, University of Maine"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "r-jarrett"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/r-jarrett/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "robertjarrettii"
   vine             :
   weibo            :
   xing             :
