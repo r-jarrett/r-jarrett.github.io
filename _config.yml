@@ -85,8 +85,8 @@ author:
   bio              : "Marine Ecologist | Ph.D. Candidate"
   location         : "Walpole, ME"
   employer         : "Darling Marine Center, University of Maine"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :  # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/r-jarrett/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "r-jarrett"
+  orcid            : "http://orcid.org/0000-0002-8223-4729"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :  # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "robertjarrettii"
