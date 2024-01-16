@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm a fifth year Ph.D. candidate at the University of Maine based out of the Darling Marine Center in the Midcoast of Maine. I am advised by Bob Steneck and Damian Brady. My research interests focuses on ecological interactions, specifically in benthic marine habitats. 
 
-(/images/DrysuitSurface.jpg)
+[!Robert preparing to dive](/images/DrysuitSurface.jpg)
 
 My dissertation research focuses on changes in American lobster ecology over the past 25 years. I have conducted an array of field sampling using a variety of methods including scuba, remotely operated vehicles, and submersibles to find patterns and changes in lobster demography. I am also using a vareity of techniques to parse out which processes and mechanism drive these changes including generalized additive models and constructing an ecological individual based model. 
 
