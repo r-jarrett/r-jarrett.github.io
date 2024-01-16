@@ -31,3 +31,6 @@ Another highlight of my graduate career has been conducting research on Bonaire'
 Prior to moving to Maine, I spent a year working following earning my B.S. at Rutgers University. During the time, I was the Head Sailing Instructor at Monmouth Boat Club for the summer and worked at the Haskin Shellfish Research Laboratory under Daphne Monroe on a variety of projects. While at Rutgers, in addition to working on my degree, I worked in the Asphalt Pavement Laboratory of several environmental projects and spent a lot of time sailing and racing with the Rutgers Sailing Team. 
 
 
+<p align="center">
+<img src="/images/SailingRutgers.jpg" width="45%" /> 
+</p>
