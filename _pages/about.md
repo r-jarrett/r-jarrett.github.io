@@ -14,7 +14,7 @@ Hi! I'm a fifth year Ph.D. candidate at the University of Maine based out of the
 
 My dissertation research focuses on changes in American lobster ecology over the past 25 years. I have conducted an array of field sampling using a variety of methods including scuba, remotely operated vehicles, and submersibles to find patterns and changes in lobster demography. I am also using a vareity of techniques to parse out which processes and mechanism drive these changes including laboratory experiments, seafloor mapping, generalized additive models, individual based models. 
 
-<img src="/images/MonheganLobster.JPG" width="500" />
+<img src="/images/MonheganLobster.JPG" width="500" /> <img src="/images/MobySurface.JPG" width="500" />
 
 While at the University of Maine, I also earned my M.S. in Marine Policy. During that program, I completed an internship with the Maine Department of Marine Resources. During the internship I worked to develop a survey for gillnet fishers in Maine and New England about the gear configurations that they use to fish. The information could then be used by managers to understand the impacts of additional regulations on fishers meant to protect the North Atlantic Right Whale. 
 
