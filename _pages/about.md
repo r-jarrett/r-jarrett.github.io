@@ -32,5 +32,5 @@ Prior to moving to Maine, I spent a year working following earning my B.S. at Ru
 
 
 <p align="center">
-<img src="/images/CoachRutgers.jpg" width="45%" /> <img src="/images/SailingRutgers.jpg" width="45%" /> 
+<img src="/images/CoachRutgers.JPG" width="45%" /> <img src="/images/SailingRutgers.jpg" width="45%" /> 
 </p>
