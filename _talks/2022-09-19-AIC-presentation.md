@@ -3,6 +3,7 @@ title: "Difficulty Breathing: Assessing changes in behavior and measures of vita
 collection: talks
 type: "Oral Presentation"
 permalink: /talks/2022-09-19-AIC-presentation
+excerpt: '<strong>Abstract:</strong> The American lobster, Homarus americanus, recently shifted its habitat use; fewer lobsters are using shelter-providing boulder habitat where populations had historically been concentrated.  More lobsters...' 
 venue: "46th Annual Meeting of the Atlantic International Chapter of the American Fisheries Society"
 date: 2022-09-19
 location: "Sunday River, Maine"
