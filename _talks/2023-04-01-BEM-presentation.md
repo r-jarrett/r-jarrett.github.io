@@ -3,7 +3,7 @@ title: "Mapping and modeling habitat to determine drivers of dramatic shifts in 
 collection: talks
 type: "Oral Presentation"
 permalink: /talks/2023-04-01-BEM-presentation
-excerpt: '<strong>Abstract:</strong> TThe American lobster naturally prefers to occupy shelters and populations have historically been concentrated in shelter-providing boulder habitat. However, this paradigm has shifted resulting in fundamental...' 
+excerpt: '<strong>Abstract:</strong> The American lobster naturally prefers to occupy shelters and populations have historically been concentrated in shelter-providing boulder habitat. However, this paradigm has shifted resulting in fundamental...' 
 venue: "Benthic Ecology Meeting"
 date: 2023-04-01
 location: "Miami, Florida"
