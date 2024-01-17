@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 # Teaching Experience
 
 **Marine Ecology Teaching Assistant** - Fall 2021 - School of Marine Sciences, University of Maine
