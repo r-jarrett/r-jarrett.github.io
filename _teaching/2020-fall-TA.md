@@ -8,5 +8,5 @@ date: 2020-09-01
 location: "Walpole, ME"
 ---
 
-I was a teaching assistant for Marine Ecology which is an undergraduate field course during Semester by the Sea at the Darling Marine Center. Due to the pandemic this course shifted to an online modality, while best maintaining the instruction of field sampling techniques. I assisted the course's professor, Dr. Bob Steneck. I recorded videos in the field demonstrating sampling techniques or data collection. I maintained classroom materials using Brightspace and assisted students over zoom when necessary. 
+I was a TA for Marine Ecology which is an undergraduate field course during Semester by the Sea at the Darling Marine Center. Due to the pandemic this course shifted to an online modality, while best maintaining the instruction of field sampling techniques. I assisted the course's professor, Dr. Bob Steneck. I recorded videos in the field demonstrating sampling techniques or data collection. I maintained classroom materials using Brightspace and assisted students over zoom when necessary. 
 
