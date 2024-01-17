@@ -24,7 +24,9 @@ I was a TA for Marine Ecology which is an undergraduate field course during Seme
 I was the Head Sailing Instructor for the summer junior sailing program at Monmouth Boat Club on the Navesink River. I developed a new curriculum for the Optimist and 420 sailing courses prior to the start of the summer. I led the maintenance and upkeep of the club’s fleet of dinghy sailboats. I oversaw a team of six sailing instructors across beginner, intermediate, and advanced classes. I assisted with beginner sailing course daily and coached intermediate sailors at regattas.
 
 # Mentoring
-     
+
+<img align="right" src="/images/group2021.jpg" width="30%"> <img align="right" src="/images/group2019.jpg" width="30%"> 
+
 Owen Hamel, Intern		              2022
 
 Emily Leonard, Undergrad Intern	    2022
@@ -36,6 +38,8 @@ Katherine Miller-Burnham, Intern	  2021
 Katherine Gould, Undergrad Intern	  2021
 
 Lydia Harris, Undergrad Intern	    2020, 2021
+
+
 
 Beth Davis, Undergrad Intern		    2019
 
