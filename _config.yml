@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Robert Jarrett"
+title                    : "Robert Jarrett II"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Robert Jarrett"
+description              : &description "Academic website of Robert Jarrett"
 url                      : https://r-jarrett.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "r-jarrett/r-jarrett.github.io"
