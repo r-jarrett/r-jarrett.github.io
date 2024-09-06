@@ -9,6 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+# Coaching Experience
+
+### **High School Coach**, Boothbay Harbor Yacht Club, Boothbay Harbor, ME			2024  
+
+Lincoln Academy and Boothbay Region High School Sailing Team  
++	Coached teams at regional fleet and team racing regattas and championships  
++	Ran weekly practices and  
++	Instructed new middle school and high school sailors on basic skills  
+<br>
+
+
+### **Head Sailing Instructor**, Monmouth Boat Club, Red Bank, NJ				2018  
+
+Summer Junior Sailing Program  
++	Developed new curriculum for the Optimist and 420 sailing courses  
++	Oversaw a team of six sailing instructors across beginner, intermediate, and advanced classes  
++	Assisted with beginner sailing course daily and coached intermediate sailors at regattas
+<br>
+
+
 # Racing Experience
 
 ### **Harraseeket Yacht Club**
@@ -87,22 +107,6 @@ Flying Juniors and Club 420s - 2015-2018
 <br>
 
 
-# Coaching Experience
 
-### **High School Coach**, Boothbay Harbor Yacht Club, Boothbay Harbor, ME			2024  
-
-Lincoln Academy and Boothbay Region High School Sailing Team  
-+	Coached teams at regional fleet and team racing regattas and championships  
-+	Ran weekly practices and  
-+	Instructed new middle school and high school sailors on basic skills  
-<br>
-
-
-### **Head Sailing Instructor**, Monmouth Boat Club, Red Bank, NJ				2018  
-
-Summer Junior Sailing Program  
-+	Developed new curriculum for the Optimist and 420 sailing courses  
-+	Oversaw a team of six sailing instructors across beginner, intermediate, and advanced classes  
-+	Assisted with beginner sailing course daily and coached intermediate sailors at regattas
 
 
