@@ -14,12 +14,12 @@ redirect_from:
 **Harraseeket Yacht Club**, Casco Bay, Maine						
 
 Sonar – Quill									        2022-2024  
-•	Skipper: helm, tactician, foredeck, spinnaker trimmer  
-•	Summer Series: ~10 evening races each year  
+ •	 Skipper: helm, tactician, foredeck, spinnaker trimmer  
+ •	 Summer Series: ~10 evening races each year  
 
 Sabre 36 – Libra										     2021  
-•	Crew: jib trimmer, foredeck  
-•	~8 evening races; Casco Bay, Maine  
+ •	 Crew: jib trimmer, foredeck  
+ •	 ~8 evening races; Casco Bay, Maine  
 Other Boats: J/24, J/105, Sabre 36, Sonar  
 <br>
 
