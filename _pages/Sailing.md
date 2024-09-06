@@ -16,7 +16,6 @@ redirect_from:
 Sonar – Quill									        2022-2024  
 •	Skipper: helm, tactician, foredeck, spinnaker trimmer  
 •	Summer Series: ~10 evening races each year  
-<br>
 
 Sabre 36 – Libra										     2021  
 •	Crew: jib trimmer, foredeck  
