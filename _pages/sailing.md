@@ -29,7 +29,7 @@ Summer Junior Sailing Program
 +	Oversaw a team of six sailing instructors across beginner, intermediate, and advanced classes  
 +	Assisted with beginner sailing course daily and coached intermediate sailors at regattas
 <br>
-
+<br>
 
 # Racing Experience
 
