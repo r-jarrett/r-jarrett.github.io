@@ -11,6 +11,7 @@ redirect_from:
 
 # Teaching Experience
 
+<br>
 **Marine Ecology Teaching Assistant** - Fall 2021 - School of Marine Sciences, University of Maine
 
 I was a TA for Marine Ecology which is an undergraduate field course during Semester by the Sea at the Darling Marine Center. I assisted the course’s professor, Dr. Bob Steneck. I led students into field for sampling in the intertidal zone and aboard research vessel. I maintained an herbivory experiment over several weeks to collect data for students to analyze. I assisted and mentored students in processing field samples, analyzing data, and weekly writing reports.
@@ -22,7 +23,7 @@ I was a TA for Marine Ecology which is an undergraduate field course during Seme
 **Head Sailing Instructior** - Summer 2018 - Monmouth Boat Club
 
 I was the Head Sailing Instructor for the summer junior sailing program at Monmouth Boat Club on the Navesink River. I developed a new curriculum for the Optimist and 420 sailing courses prior to the start of the summer. I led the maintenance and upkeep of the club’s fleet of dinghy sailboats. I oversaw a team of six sailing instructors across beginner, intermediate, and advanced classes. I assisted with beginner sailing course daily and coached intermediate sailors at regattas.
-
+<br>
 
 
 # Mentoring
