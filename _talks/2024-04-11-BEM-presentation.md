@@ -3,7 +3,7 @@ title: "Habitat-specific monitoring documents dramatic changes in habitat use an
 collection: talks
 type: "Oral Presentation"
 permalink: /talks/2024-04-11-BEM-presentation
-excerpt: '<strong>Abstract:</strong> The American lobster naturally prefers to occupy shelters and populations have historically been concentrated in shelter-providing boulder habitat. However, this paradigm has shifted resulting in fundamental...' 
+excerpt: 'The American lobster naturally prefers to occupy shelters and populations have historically been concentrated in shelter-providing boulder habitat. However, this paradigm has shifted resulting in fundamental...' 
 venue: "Benthic Ecology Meeting"
 date: 2024-04-11
 location: "Charleston, South Carolina"
