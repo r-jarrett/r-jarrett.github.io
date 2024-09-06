@@ -3,7 +3,7 @@ title: "No Easy Answers: Dramatic shifts in American lobster habitat and demogra
 collection: talks
 type: "Oral Presentation"
 permalink: /talks/2022-05-09-BEM-presentation
-excerpt: '<strong>Abstract:</strong> The American lobster, Homarus americanus, naturally prefers to occupy shelters and populations have historically been concentrated in shelter-providing boulder habitat. However, this paradigm...' 
+excerpt: 'The American lobster, Homarus americanus, naturally prefers to occupy shelters and populations have historically been concentrated in shelter-providing boulder habitat. However, this paradigm...' 
 venue: "Benthic Ecology Meeting"
 date: 2022-05-09
 location: "Portsmouth, NH"
