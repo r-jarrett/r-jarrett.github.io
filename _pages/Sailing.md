@@ -88,7 +88,7 @@ Lincoln Academy and Boothbay Region High School Sailing Team
 •	Ran weekly practices and  
 •	Instructed new middle school and high school sailors on basic skills  
 <br>
-<br>
+
 
 **Head Sailing Instructor**, Monmouth Boat Club, Red Bank, NJ				2018  
 
