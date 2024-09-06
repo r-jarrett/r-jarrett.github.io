@@ -28,8 +28,8 @@ Summer Junior Sailing Program
 +	Developed new curriculum for the Optimist and 420 sailing courses  
 +	Oversaw a team of six sailing instructors across beginner, intermediate, and advanced classes  
 +	Assisted with beginner sailing course daily and coached intermediate sailors at regattas
-
 <br>
+
 *****************************************
 <br>
 
