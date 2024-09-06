@@ -23,14 +23,13 @@ Sabre 36 – Libra										     2021
 •	~8 evening races; Casco Bay, Maine  
 Other Boats: J/24, J/105, Sabre 36, Sonar  
 <br>
-<br>
+
 
 **Christmas Cove Improvement Association**, Damariscotta River, Maine  
 
 Christmas Cove 21 One Design - Blitzen							    2024  
 •	Crew: jib trimmer, spinnaker trimmer, foredeck, occasionally helmed  
 •	Summer Series: 11 days of racing (2-3 races)  
-<br>
 <br>
 
 **Boothbay Harbor Yacht Club**, Boothbay Harbor, Maine  
@@ -39,7 +38,7 @@ Flying Dutchman - #1360									    2024
 •	Crew: jib trimmer, spinnaker trimmer, trapeze  
 •	Round Southport Regatta: 1 day racing  
 <br>
-<br>
+
 
 **Portland Yacht Club**, Casco Bay, Maine  
 
@@ -51,7 +50,7 @@ Laser - #											     2022
 •	Single handed  
 •	Frostbiting Series: 3 days of racing  
 <br>
-<br>
+
 
 **Atlantic Highlands Yacht Club**, Sandy Hook Bay, New Jersey	 
 
@@ -63,7 +62,7 @@ J/27 - Mystique										     2018
 •	Crew: jib trimmer, foredeck  
 •	Summer Series: ~8 evening races; Regattas: ~ 4 days  
 <br>
-<br>
+
 
 **Monmouth Boat Club**, Shrewsbury River, New Jersey  
 
@@ -71,7 +70,7 @@ Albacore -
 •	Crew: jib trimmer  
 •	Summer Series ~ 8 evening races; Travel Regattas: ~8 days (NJ to MD)  
 <br>
-<br>
+
 
 **Rutgers University Sailing Team**, Raritan River, NJ					       2015-2018  
 
@@ -79,7 +78,7 @@ Flying Juniors and Club 420s
 •	Skipper and Crew  
 •	Weekly Practice: 2-4 days weekly; Travel Regattas: 17 two-day events (NY to VA)  
 <br>
-<br>
+
 
 # Coaching Experience
 
