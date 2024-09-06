@@ -16,7 +16,7 @@ Boothbay Harbor Yacht Club, Boothbay Harbor, ME - 2024
 
 Lincoln Academy and Boothbay Region High School Sailing Team  
 +	Coached teams at regional fleet and team racing regattas and championships  
-+	Ran weekly practices and  
++	Ran 2-3 practies practices weekly  
 +	Instructed new middle school and high school sailors on basic skills  
 <br>
 
@@ -36,13 +36,11 @@ Summer Junior Sailing Program
 ### **Harraseeket Yacht Club**
 Casco Bay, Maine						
 
-Sonar – <i>Quill</i> - 2022-2024  
-+	Skipper: helm, tactician, foredeck, spinnaker trimmer  
-+	Summer Series: ~10 evening races each year  
+Sonar – <i>Quill</i> - 2022-2024  (Skipper, tactician, foredeck, spinnaker trimmer)  
+&emsp; Summer Series: ~10 evening races each year
 
-Sabre 36 – <i>Libra</i> - 2021  
-+	 Crew: jib trimmer, foredeck  
-+	 ~8 evening races; Casco Bay, Maine  
+Sabre 36 – <i>Libra</i> - 2021  (Jib trimmer, foredeck)  
+&emsp; Summer Series: ~8 evening races
 
 Other Boats: J/24, J/105, Sabre 36, Sonar  
 <br>
@@ -51,61 +49,53 @@ Other Boats: J/24, J/105, Sabre 36, Sonar
 ### **Christmas Cove Improvement Association**
 Damariscotta River, Maine  
 
-Christmas Cove 21 One Design - <i>Blitzen</i> - 2024  
-+	Crew: jib trimmer, spinnaker trimmer, foredeck, occasionally helmed  
-+	Summer Series: 11 days of racing (2-3 races)  
+Christmas Cove 21 One Design - <i>Blitzen</i> - 2024 (Jib trimmer, spinnaker trimmer, foredeck, occasionally helmed)  
+&emsp; Summer Series: 11 days of racing (2-3 races)  
 <br>
 
 ### **Boothbay Harbor Yacht Club**
 Boothbay Harbor, Maine  
 
-Flying Dutchman - #1360 - 2024  
-+	Crew: jib trimmer, spinnaker trimmer, trapeze  
-+	Round Southport Regatta: 1 day racing  
+Flying Dutchman - #1360 - 2024  (Jib trimmer, spinnaker trimmer, trapeze)  
+&emsp; Round Southport Regatta: 1 day racing  
 <br>
 
 
 ### **Portland Yacht Club**
 Casco Bay, Maine  
 
-J/35 – <i>Breakaway</i> - 2022  
-+	Crew: jib trimmer  
-+	Regattas: 3 days of racing  
+J/35 – <i>Breakaway</i> - 2022 (Jib trimmer)   
+&emsp; Regattas: 3 days of racing  
 
-Laser - 2022  
-+	Single handed  
-+	Frostbiting Series: 3 days of racing  
+Laser - 2022  (Single handed)  
+&emsp; Frostbiting Series: 3 days of racing  
 <br>
 
 
 ### **Atlantic Highlands Yacht Club**
 Sandy Hook Bay, New Jersey	 
 
-J/133 – <i>Assarain IV</i>	- 2023  
-+	Crew: foredeck  
-+	Regattas: 2 days of racing  
+J/133 – <i>Assarain IV</i>	- 2023  (Foredeck)  
+&emsp; Regattas: 2 days of racing  
 
-J/27 - <i>Mystique</i>	- 2018  
-+	Crew: jib trimmer, foredeck  
-+	Summer Series: ~8 evening races; Regattas: ~ 4 days  
+J/27 - <i>Mystique</i>	- 2018 (Jib trimmer, foredeck)  
+&emsp; Summer Series: ~8 evening races; Regattas: ~ 4 days  
 <br>
 
 
 ### **Monmouth Boat Club**
 Shrewsbury River, New Jersey  
 
-Albacore -  
-+	Crew: jib trimmer  
-+	Summer Series ~ 8 evening races; Travel Regattas: ~8 days (NJ to MD)  
+Albacore - 2016-2018 (Crew)  
+&emsp; Summer Series ~ 8 evening races; Travel Regattas: ~8 days (NJ to MD)  
 <br>
 
 
 ### **Rutgers University Sailing Team**
 Raritan River, NJ					       
 
-Flying Juniors and Club 420s - 2015-2018  
-+	Skipper and Crew  
-+	Weekly Practice: 2-4 days weekly; Travel Regattas: 17 two-day events (NY to VA)  
+Flying Juniors and Club 420s - 2015-2018  (Skipper and Crew)  
+&emsp; Weekly Practice: 2-4 days weekly; Travel Regattas: 17 two-day events (NY to VA)  
 <br>
 
 
