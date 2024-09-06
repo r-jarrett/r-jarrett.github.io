@@ -11,7 +11,8 @@ redirect_from:
 
 # Coaching Experience
 
-### **High School Coach**, Boothbay Harbor Yacht Club, Boothbay Harbor, ME			2024  
+### **High School Coach**  
+Boothbay Harbor Yacht Club, Boothbay Harbor, ME - 2024  
 
 Lincoln Academy and Boothbay Region High School Sailing Team  
 +	Coached teams at regional fleet and team racing regattas and championships  
@@ -20,7 +21,8 @@ Lincoln Academy and Boothbay Region High School Sailing Team
 <br>
 
 
-### **Head Sailing Instructor**, Monmouth Boat Club, Red Bank, NJ				2018  
+### **Head Sailing Instructor**  
+Monmouth Boat Club, Red Bank, NJ - 2018  
 
 Summer Junior Sailing Program  
 +	Developed new curriculum for the Optimist and 420 sailing courses  
