@@ -4,6 +4,7 @@ collection: talks
 type: "Oral Presentation"
 permalink: /talks/2024-05-06-SMS-presentation
 excerpt: 'As a lobster postlarvae settles to the seafloor to when it grows to an adult, it will inhabit various habitats and shift its behavior. At each life stage we use different methods...'
+venue: "School of Marine Science, Darling Marine Center"
 date: 2024-05-06
 location: "Walpole, Maine"
 ---
