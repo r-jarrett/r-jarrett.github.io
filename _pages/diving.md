@@ -29,9 +29,10 @@ redirect_from:
 *****************************************
 <br>
 
-## Locations:
-Maine, United States  
-Bonaire, Dutch Antilles  
-St. Croix, US Virgin Islands  
-Dutch Springs, Pennsylvannia  
+# Diving Locations:
+
+Maine, United States - 2019-2024  
+Bonaire, Dutch Antilles - 2019, 2023  
+St. Croix, US Virgin Islands - 2018  
+Dutch Springs, Pennsylvannia -2018-2019  
 
