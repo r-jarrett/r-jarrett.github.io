@@ -3,7 +3,7 @@ title: "2020 Canada-US Lobster Town Meeting: Lobsters without boarders: Forging 
 collection: publications
 category: report
 permalink: /publication/Lobster-town-meeting
-excerpt: 'Our study revisited 20 long-term monitored sites at 10 m depth along more than 320 km of the Gulf of Maine. Surprisingly, we recorded fundamental changes in lobster abundance, habitat use...'
+excerpt: 'Good decisions come from knowledge. Knowledge grows by sharing observations and experiences. Sustaining a shared resource calls for constructive sharing of information. It is  within...'
 date: 2020-05-01
 venue: 'Lobster Institute'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
