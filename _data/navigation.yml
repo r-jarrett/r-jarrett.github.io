@@ -20,6 +20,9 @@ main:
 
   - title: "Sailing"
     url: /sailing/  
+
+  - title: "Diving"
+    url: /diving/  
     
   #- title: "Guide"
   #  url: /markdown/
