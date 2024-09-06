@@ -3,7 +3,7 @@ title: "Predicting anoxic volumes of Chesapeake Bay: Utilizing bootstrapping to 
 collection: talks
 type: "Poster Presentation"
 permalink: /talks/2017-11-07-CERF-poster
-excerpt: '<strong>Abstract:</strong> The health of Chesapeake Bay suffers from anoxic events, which occur seasonally in this stratified estuary. Over the past several decades, the frequency and severity of anoxic conditions have varied...' 
+excerpt: 'The health of Chesapeake Bay suffers from anoxic events, which occur seasonally in this stratified estuary. Over the past several decades, the frequency and severity of anoxic conditions have varied...' 
 venue: "Coastal and Estuarine Research Federation Biennial Conference"
 date: 2017-11-07
 location: "Providence, RI"
