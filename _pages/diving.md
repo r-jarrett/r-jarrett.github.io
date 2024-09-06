@@ -36,3 +36,15 @@ Bonaire, Dutch Antilles - 2019, 2023
 St. Croix, US Virgin Islands - 2018  
 Dutch Springs, Pennsylvannia -2018-2019  
 
+<br>
+
+*****************************************
+<br>
+
+# Certifications:  
+
+AAUS Scientific Diver  
+PADI Rescue Diver  
+PADI Advanced Open Water Diver  
+PADI Open Water Diver  
+
