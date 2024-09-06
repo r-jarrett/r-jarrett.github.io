@@ -29,7 +29,7 @@ redirect_from:
 *****************************************
 <br>
 
-# Diving Locations:
+# Diving Locations  
 
 Maine, United States - 2019-2024  
 Bonaire, Dutch Antilles - 2019, 2023  
@@ -41,7 +41,7 @@ Dutch Springs, Pennsylvannia -2018-2019
 *****************************************
 <br>
 
-# Certifications:  
+# Certifications  
 
 AAUS Scientific Diver  
 PADI Rescue Diver  
