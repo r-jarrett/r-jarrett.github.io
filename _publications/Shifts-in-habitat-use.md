@@ -7,7 +7,7 @@ excerpt: 'Our study revisited 20 long-term monitored sites at 10 m depth along m
 date: 2024-09-01
 venue: 'Marine Ecology Progress Series'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-citation: 'Jarrett, R. N., II, Steneck, R. S., Brady, D. C., & Wahle, Richard A. (In press). Shifts in habitat, habitat use, and demography of American lobsters in coastal Maine over the past quarter century. <i>Marine Ecology Progress Series</i>.'
+citation: 'Jarrett, R. N., II, Steneck, R. S., Brady, D. C., & Wahle, R. A. (In press). Shifts in habitat, habitat use, and demography of American lobsters in coastal Maine over the past quarter century. <i>Marine Ecology Progress Series</i>.'
 ---
 
 <b>Abstract:</b>
