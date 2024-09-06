@@ -6,7 +6,7 @@ excerpt: 'Some species are so linked to specific environments that their habitat
 date: 2024
 venue: 'Marine Ecology Progress Series'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Jarrett, R. N., II, R. S. Steneck, D. C. Brady, and Wahle, Richard A. 2024. Shifts in habitat, habitat use, and demography of American lobsters in coastal Maine over the past quarter century. <i>Marine Ecology Progress Series.</i>
+citation: 'Jarrett, R. N., II, R. S. Steneck, D. C. Brady, and Wahle, Richard A. 2024. Shifts in habitat, habitat use, and demography of American lobsters in coastal Maine over the past quarter century. <i>Marine Ecology Progress Series.</i>'
 
 ---
 This paper is about the number 1. The number 2 is left for future work.
