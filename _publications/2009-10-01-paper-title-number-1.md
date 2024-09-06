@@ -3,7 +3,7 @@ title: "Shifts in habitat use and demography of American lobsters in coastal Mai
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'TOur study revisited 20 long-term monitored sites at 10 m depth along more than 320 km of the Gulf of Maine. Surprisingly, we recorded fundamental changes in lobster abundance, habitat use...'
+excerpt: 'Our study revisited 20 long-term monitored sites at 10 m depth along more than 320 km of the Gulf of Maine. Surprisingly, we recorded fundamental changes in lobster abundance, habitat use...'
 date: 2024-09-01
 venue: 'Marine Ecology Progress Series'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
