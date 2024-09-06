@@ -14,7 +14,7 @@ Hi! I'm a fifth year Ph.D. candidate at the University of Maine based out of the
 <img src="/images/DrysuitSurface.JPG" width="65%" />
 </p>
 
-My dissertation research focuses on changes in American lobster ecology over the past 25 years. I have conducted an array of field sampling using a variety of methods including scuba, remotely operated vehicles, and submersibles to find patterns and changes in lobster demography. I am also using a variety of techniques to parse out which processes and mechanism drive these changes including laboratory experiments, seafloor mapping, generalized additive models, and individual based models. 
+My dissertation research focuses on changes in American lobster ecology over the past 25 years. I have conducted an array of field sampling using a variety of methods including scuba, remotely operated vehicles, and submersibles to find patterns and changes in lobster demography. I am also using a variety of techniques to parse out which processes and mechanisms drive these changes including laboratory experiments, seafloor mapping, generalized additive models, and individual based models. 
 
 <p align="middle">
 <img src="/images/MonheganLobster.JPG" width="45%" /> <img src="/images/MobySurface.JPG" width="45%" />
