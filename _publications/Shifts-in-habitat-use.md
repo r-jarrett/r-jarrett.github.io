@@ -18,5 +18,3 @@ Some species are so linked to specific environments that their habitat associati
 Or please email me for a copy!
 
 The dataset for this manuscript is also available [here.](https://digitalcommons.library.umaine.edu/student_work/41/)
-
-
