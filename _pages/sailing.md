@@ -16,7 +16,7 @@ Boothbay Harbor Yacht Club, Boothbay Harbor, ME - 2024
 
 Lincoln Academy and Boothbay Region High School Sailing Team  
 +	Coached teams at regional fleet and team racing regattas and championships  
-+	Ran 2-3 practies practices weekly  
++	Ran 2-3 practices practices weekly  
 +	Instructed new middle school and high school sailors on basic skills  
 <br>
 
