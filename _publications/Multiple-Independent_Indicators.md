@@ -2,7 +2,7 @@
 title: "Multiple independent indicators of American lobster in Maine: Patterns in space and time"
 collection: publications
 category: manuscripts
-permalink: /publication/Shifts-in-habitat-use
+permalink: /publication/Multiple-Independent_Indicators
 excerpt: 'This manuscript will focus on...'
 date: 2024-10-01
 venue: 'In prep'
