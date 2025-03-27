@@ -11,4 +11,4 @@ citation: 'Jarrett, R. N., II, Reardon, Kathleen M., Steneck, R. S., & Brady, D.
 ---
 
 <b>Abstract:</b>
-A comparison of size distributions between trawl and trap surveys revealed a pronounced decline in the frequency of lobsters above the minimum legal size in trap surveys, while trawl surveys exhibited a much weaker decline. These findings suggest that individual behavioral traits may lead certain lobsters to avoid traps, with implications for both fisheries management and sustainable harvest practices.
+A comparison of size distributions between trawl and trap surveys revealed a pronounced decline in the frequency of lobsters above the minimum legal size in trap surveys, while trawl surveys exhibited a much weaker decline. These findings suggest that individual behavioral traits may lead certain lobsters to avoid traps, with implications for both fisheries management and sustainable harvest practices. More comming soon!
