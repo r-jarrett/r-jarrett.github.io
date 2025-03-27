@@ -20,6 +20,14 @@ Lincoln Academy and Boothbay Region High School Sailing Team
 +	Instructed new middle school and high school sailors on basic skills  
 <br>
 
+### **Collegiate Sailing Coach**  
+University of Maine, Orono, ME - 2019
+
+University of Maine Sailing Team 
++	Coached teams at local collegiate fleet racing regattas 
++	Assisted team officers with activities to promote team growth  
+<br>
+
 
 ### **Head Sailing Instructor**  
 Monmouth Boat Club, Red Bank, NJ - 2018  
