@@ -12,7 +12,7 @@ redirect_from:
 # Coaching Experience
 
 ### **High School Sailing Coach**  
-Boothbay Harbor Yacht Club, Boothbay Harbor, ME - 2024  
+Boothbay Harbor Yacht Club, Boothbay Harbor, ME - 2024 to Present
 
 Lincoln Academy and Boothbay Region High School Sailing Team  
 +	Coached teams at regional fleet and team racing regattas and championships  
