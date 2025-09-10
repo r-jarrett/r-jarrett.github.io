@@ -14,9 +14,11 @@ redirect_from:
 ### **High School Sailing Coach**  
 Boothbay Harbor Yacht Club, Boothbay Harbor, ME - 2024 to Present
 
-Lincoln Academy and Boothbay Region High School Sailing Team  
-+	Coached teams at regional fleet and team racing regattas and championships  
-+	Ran 2-3 practices practices weekly  
+Lincoln Academy and Boothbay Region High School Sailing Team 
++	Coached teams at regional fleet and team racing regattas and championships   
++	Managed team schedules, organized other coaches
++	Ran 2-3 practices weekly
++	Hosted regional and NESSA qualifier regattas as PRO
 +	Instructed new middle school and high school sailors on basic skills  
 <br>
 
