@@ -37,7 +37,15 @@ Monmouth Boat Club, Red Bank, NJ - 2018
 Summer Junior Sailing Program  
 +	Developed new curriculum for the Optimist and 420 sailing courses  
 +	Oversaw a team of six sailing instructors across beginner, intermediate, and advanced classes  
-+	Assisted with beginner sailing course daily and coached intermediate sailors at regattas  
++	Assisted with beginner sailing course daily and coached intermediate sailors at regattas
+
+### **Team President**  
+Rutgers University Sailing Team, New Brunswick, NJ - 2017  
+
+Spring and Fall Collegiate Sailing Seasons
++	Taught new students how to sail as a crew in cFJs
++	Coached intermediate sailors as crew and introduced sailors to skippering 
++	Managed executive board and team members to expand fundraising, recruitment, and regatta attendance    
 
 <br>
 
