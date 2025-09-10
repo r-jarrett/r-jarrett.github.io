@@ -13,6 +13,6 @@ location: "Virtual"
  
 Access to commodity markets requires production to scale significantly which may require moving into offshore or nearshore-exposed cultivation sites, all of which will necessitate greater innovation and efficiency of production systems and operations. Inexpensive telemetered monitoring systems and remotely operated or autonomous vehicles coupled with imaging sonar are potential solutions. In order to assess the utility of these technologies and to test the feasibility of farming seaweeds offshore in the Gulf of Maine, researchers at the University of Maine established an offshore, deepwater, exposed test site. Deployed from Nov. 2024 through May 2025 at 100m depth and 20km from the mainland, the site is likely one of the deepest and most exposed seaweed farms globally. The farm was outfitted with small scale telemetry buoys developed by Blue Ocean Gear. Kelp growth was assessed via imaging sonar from Cerulean Sonar equipped on a BlueBoat uncrewed surface vessel from Blue Robotics. Preliminary results from this project will be presented and potential applications of these technologies will be discussed.  
 
-Authors: Jarrett, R., Testa, J., Lyubchich, V.
+Authors: St. Gelais, A., Jarrett, R.
 
 
