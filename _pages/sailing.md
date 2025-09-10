@@ -13,8 +13,7 @@ redirect_from:
 
 ### **High School Sailing Coach**  
 Boothbay Harbor Yacht Club, Boothbay Harbor, ME - 2024 to Present
-
-Lincoln Academy and Boothbay Region High School Sailing Team 
+&emsp; Lincoln Academy and Boothbay Region High School Sailing Team 
 +	Coached teams at regional fleet and team racing regattas and championships   
 +	Managed team schedules, organized other coaches
 +	Ran 2-3 practices weekly
@@ -24,8 +23,7 @@ Lincoln Academy and Boothbay Region High School Sailing Team
 
 ### **Collegiate Sailing Coach**  
 University of Maine, Orono, ME - 2019
-
-University of Maine Sailing Team 
+&emsp; University of Maine Sailing Team 
 +	Coached teams at local collegiate fleet racing regattas 
 +	Assisted team officers with activities to promote team growth  
 <br>
@@ -33,16 +31,14 @@ University of Maine Sailing Team
 
 ### **Head Sailing Instructor**  
 Monmouth Boat Club, Red Bank, NJ - 2018  
-
-Summer Junior Sailing Program  
+&emsp; Summer Junior Sailing Program  
 +	Developed new curriculum for the Optimist and 420 sailing courses  
 +	Oversaw a team of six sailing instructors across beginner, intermediate, and advanced classes  
 +	Assisted with beginner sailing course daily and coached intermediate sailors at regattas
 
 ### **Team President**  
 Rutgers University Sailing Team, New Brunswick, NJ - 2017  
-
-Spring and Fall Collegiate Sailing Seasons
+&emsp; Spring and Fall Collegiate Sailing Seasons
 +	Taught new students how to sail as a crew in cFJs
 +	Coached intermediate sailors as crew and introduced sailors to skippering 
 +	Managed executive board and team members to expand fundraising, recruitment, and regatta attendance    
