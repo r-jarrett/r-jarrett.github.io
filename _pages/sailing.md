@@ -47,13 +47,16 @@ Summer Junior Sailing Program
 
 ### **Harraseeket Yacht Club**, Casco Bay, Maine						
 
+Sonar – <i>Zulu</i> - 2025  (Skipper, tactician, foredeck, spinnaker trimmer)  
+&emsp; Summer Series: ~12 evening races
+
 Sonar – <i>Quill</i> - 2022-2024  (Skipper, tactician, foredeck, spinnaker trimmer)  
 &emsp; Summer Series: ~10 evening races each year
 
 Sabre 36 – <i>Libra</i> - 2021  (Jib trimmer, foredeck)  
 &emsp; Summer Series: ~8 evening races
 
-Other Boats: J/24, J/105, Sabre 36, Sonar  
+Other Boats: J/24, J/105, Sabre 36, Pearson 36  
 <br>
 
 
@@ -65,8 +68,8 @@ Christmas Cove 21 One Design - <i>Blitzen</i> - 2024 (Jib trimmer, spinnaker tri
 
 ### **Boothbay Harbor Yacht Club**, Boothbay Harbor, Maine  
 
-Flying Dutchman - #1360 - 2024  (Jib trimmer, spinnaker trimmer, trapeze)  
-&emsp; Round Southport Regatta: 1 day racing  
+Flying Dutchman - #1360 - 2024-2025  (Skipper, Tactician, Jib trimmer, spinnaker trimmer, trapeze)  
+&emsp; Round Southport Regatta: 1 day racing each year
 <br>
 
 
