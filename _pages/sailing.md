@@ -13,6 +13,7 @@ redirect_from:
 
 ### **High School Sailing Coach**  
 Boothbay Harbor Yacht Club, Boothbay Harbor, ME - 2024 to Present
+
 &emsp; Lincoln Academy and Boothbay Region High School Sailing Team 
 +	Coached teams at regional fleet and team racing regattas and championships   
 +	Managed team schedules, organized other coaches
@@ -23,6 +24,7 @@ Boothbay Harbor Yacht Club, Boothbay Harbor, ME - 2024 to Present
 
 ### **Collegiate Sailing Coach**  
 University of Maine, Orono, ME - 2019
+
 &emsp; University of Maine Sailing Team 
 +	Coached teams at local collegiate fleet racing regattas 
 +	Assisted team officers with activities to promote team growth  
