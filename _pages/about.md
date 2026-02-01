@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a sixth year Ph.D. candidate at the University of Maine based out of the Darling Marine Center in Midcoast Maine. I am advised by Bob Steneck and Damian Brady. My research interests focus on ecological interactions, specifically in benthic marine habitats.  
+Hi! I just defended my Ph.D. in January at the University of Maine based out of the Darling Marine Center in Midcoast Maine. I am advised by Bob Steneck and Damian Brady. My research interests focus on ecological interactions, specifically in benthic marine habitats.  
 
 <p align="center">
 <img src="/images/DrysuitSurface.JPG" width="65%" />
