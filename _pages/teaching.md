@@ -12,7 +12,6 @@ redirect_from:
 # Teaching Experience
 
 <br>
-
 **Micro-Credential Developer & Instructor** - 2025-2026 - Darling Marine Center, University of Maine
 
 I designed a hybrid Micro-Credential integrating self paced online modules with hands on field training in ROV operation and underwater survey methods. I focused on creating accessible instructional materials including video demonstrations, step by step technical guides, and scaffolded practice activities and developing competency based assessments to evaluate learner proficiency in ROV maintenance, piloting, survey design, and data interpretation.
@@ -43,10 +42,6 @@ I was the Head Sailing Instructor for the summer junior sailing program at Monmo
 
 I mentored undergraduate researchers working various components of lobster ecology studies including scuba and ROV surveys, flowing seawater lab experiments. I guided students through experimental design, ecological sampling, data management, and quantitative analysis in R and supported them in preparing posters and presentations for academic/public audiences. I focused on fostering an inclusive, supportive research environment that welcomed students with diverse levels of prior experience.
 
-**Bonaire Coral Reef Survey Field Researcher** - March 2023 - University of Maine, Steneck Lab
-
-I helped prepare undergraduate students in Coral Reefs course for a week long field trip by reviewing survey protocols, practicing underwater data collection techniques, and supporting their readiness for ecological scuba surveys. In the field, I guided students through post dive logistics, including transcribing data, organizing field notes, and managing datasets to ensure accuracy and consistency across survey sites. After the trip, I mentored students in ecological data analysis and scientific writing, assisting them in interpreting ecological patterns and developing clear, well structured final reports.
-
 
 <img align="right" src="/images/group2021.jpg" width="30%"> <img align="right" src="/images/group2019.jpg" width="30%"> 
 
@@ -65,4 +60,8 @@ Lydia Harris, Undergrad Intern	    2020, 2021
 Beth Davis, Undergrad Intern		    2019
 
 Grace McDermott, Undergrad Intern	  2019
+
+**Bonaire Coral Reef Survey Field Researcher** - March 2023 - University of Maine, Steneck Lab
+
+I helped prepare undergraduate students in Coral Reefs course for a week long field trip by reviewing survey protocols, practicing underwater data collection techniques, and supporting their readiness for ecological scuba surveys. In the field, I guided students through post dive logistics, including transcribing data, organizing field notes, and managing datasets to ensure accuracy and consistency across survey sites. After the trip, I mentored students in ecological data analysis and scientific writing, assisting them in interpreting ecological patterns and developing clear, well structured final reports.
 
