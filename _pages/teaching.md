@@ -16,7 +16,7 @@ redirect_from:
 
 I developed and taught an applied marine‑skills course focused on safe boating, vessel handling, and on‑the‑water operations for students preparing to work in marine and environmental fields. The course combined classroom instruction with hands‑on training in navigation, safety protocols, small‑boat operations, and field preparedness. I emphasized practical decision‑making, risk assessment, and professional standards for working on the water.
 
-**Marine Policy & Management Adjunct Instructor** - Summer 2026 - Unity Environmental University
+**Marine Policy & Management Adjunct Instructor** - Spring 2026 - Unity Environmental University
 
 I designed and taught a case‑based course introducing students to the regulatory frameworks that shape U.S. marine management, including the ESA, MMPA, NEPA, and Magnuson‑Stevens Act. Students worked through real‑world case studies involving protected species, fisheries, and environmental review, learning how to interpret regulatory criteria, evaluate management actions, and communicate decision‑relevant information. The course centered on building regulatory literacy and applied analytical skills for agency‑facing work.
 
