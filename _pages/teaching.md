@@ -12,6 +12,15 @@ redirect_from:
 # Teaching Experience
 
 <br>
+
+**Adjunct Instructor & Subject Matter Expert** - 2026 - Unity Environmental University
+
+Marine Skills: Safe Boating and Operations  
+I developed and taught an applied marine‑skills course focused on safe boating, vessel handling, and on‑the‑water operations for students preparing to work in marine and environmental fields. The course combined classroom instruction with hands‑on training in navigation, safety protocols, small‑boat operations, and field preparedness. I emphasized practical decision‑making, risk assessment, and professional standards for working on the water.
+
+Marine Policy & Management  
+I designed and taught a case‑based course introducing students to the regulatory frameworks that shape U.S. marine management, including the ESA, MMPA, NEPA, and Magnuson‑Stevens Act. Students worked through real‑world case studies involving protected species, fisheries, and environmental review, learning how to interpret regulatory criteria, evaluate management actions, and communicate decision‑relevant information. The course centered on building regulatory literacy and applied analytical skills for agency‑facing work.
+
 **Micro-Credential Developer & Instructor** - 2025-2026 - Darling Marine Center, University of Maine
 
 I designed a hybrid Micro-Credential integrating self paced online modules with hands on field training in ROV operation and underwater survey methods. I focused on creating accessible instructional materials including video demonstrations, step by step technical guides, and scaffolded practice activities and developing competency based assessments to evaluate learner proficiency in ROV maintenance, piloting, survey design, and data interpretation.
