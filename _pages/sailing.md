@@ -12,8 +12,15 @@ redirect_from:
 # Coaching Experience
 
 ### **High School Sailing Coach**  
-Boothbay Harbor Yacht Club, Boothbay Harbor, ME - 2024 to Present  
-&emsp; Lincoln Academy and Boothbay Region High School Sailing Team 
+SailMaine, Portland, ME - Spring 2026 to Present
+&emsp; Head Coach, Falmouth High School Sailing Team 
++	Coached teams at regional fleet and team racing regattas and championships   
++	Managed team schedule, organized with other SailMaine teams
++	Ran 3 practices weekly
+<br>
+
+Boothbay Harbor Yacht Club, Boothbay Harbor, ME - Spring 2024 to Spring 2025  
+&emsp; Assistant Coach, Lincoln Academy and Boothbay Region High School Sailing Team 
 +	Coached teams at regional fleet and team racing regattas and championships   
 +	Managed team schedules, organized other coaches
 +	Ran 2-3 practices weekly
