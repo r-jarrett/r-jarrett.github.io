@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/Multiple-Independent_Indicators
 excerpt: 'Effective fisheries monitoring that informs demographic trends and potential landings are necessary for sustainable fisheries management. The design of surveys...'
-date: 2025-04-01
-venue: 'In review'
+date: 2026-05-01
+venue: 'Marine Ecology Progress Series'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 citation: 'Jarrett, R. N., II, Steneck, R. S., Brady, D. C., & Reardon, Kathleen M. (2025). Multiple independent indicators of American lobster in Maine: Patterns in space and time. In review.'
 ---
