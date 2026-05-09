@@ -12,9 +12,9 @@ redirect_from:
 # Coaching Experience
 
 ### **High School Sailing Coach**  
-SailMaine, Portland, ME - Spring 2026 to Present
+SailMaine, Portland, ME - Spring 2026 to Present  
 &emsp; Head Coach, Falmouth High School Sailing Team 
-+	Coached teams at regional fleet and team racing regattas and championships   
++	Coached team at regional fleet and team racing regattas and championships   
 +	Managed team schedule, organized with other SailMaine teams
 +	Ran 3 practices weekly
 <br>
