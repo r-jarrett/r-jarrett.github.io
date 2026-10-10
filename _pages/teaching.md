@@ -21,6 +21,7 @@ Adjunct Instructor (Fall 2026, 2 cr. undergrad course, 2 sections)
 * Led field activities aboard the SMCC research vessel and wet lab experiments, guiding students through a course project surrounding lobster trap survey integrating oceanographic and biological data collection, and lab based analyses.
 * Directed and taught the scientific curriculum, including survey design, data collection, quantitative analysis in Excel and R, literature synthesis, and development of a final scientific poster.
 * Provided nautical science instruction with the vessel captain, covering safe vessel operation, line handling, and navigation; led a class introducing students to sailing on J/22 keelboats.
+<br>
 
 ## Unity Environmental College Courses
 
@@ -32,6 +33,7 @@ Adjunct Instructor (Oct 2026, 4 cr. undergrad course, 5 week term)
 * Taught both lecture and laboratory components introducing macroevolution, organismal structure and function, and ecological interactions across major groups of organisms.
 * Led a course project in which students created four interpretive posters, modeled after national park signage, highlighting a biome and focal species through biodiversity, organismal biology, evolution, and ecology.
 * Used established labs, weekly lab reports, and an eDNA biodiversity activity, plus fieldwork and case studies, to build practical skills in experimental design and ecological survey methods.
+<br>
 
 **CHM1001: Chemistry in Action: From Theory to Practice**
 <br>
@@ -41,6 +43,7 @@ Adjunct Instructor (Sept 2026, 4 cr. undergrad course, 5 week term)
 * Taught both lecture and laboratory components, guiding students through core chemical principles including atomic structure, bonding, stoichiometry, periodic trends, and intermolecular forces.
 * Led a course project in which students researched an element, interpreted a representative reaction, balanced the equation, and completed stoichiometric calculations in a comprehensive final report.
 * Used established labs, weekly lab reports, and targeted textbook problem sets to build proficiency with reaction types, balanced equations, quantitative calculations, and interpretation of experimental results.
+<br>
 
 **MAR3001: Marine Skills: Safe Boating & Operations**
 <br>
@@ -49,6 +52,7 @@ Learn and practice essential skills for safe boating and marine operations such 
 Adjunct Instructor & Course Designer (May 2026, 3 cr. undergrad course, 5 week term)
 * Designed and built a new curriculum, integrating small boat handling, navigation, risk assessment, and field operations competencies aligned with Maine DIFW boating safety standards.
 * Created practical skill assessments and performance rubrics to evaluate students’ readiness for independent small boat operation in scientific fieldwork, aquaculture, and coastal resource careers.
+<br>
 
 **EVJ3004: Charting the Course: Marine Policy & Management**
 <br>
@@ -58,6 +62,7 @@ Adjunct Instructor & Course Designer (Mar 2026, 3 cr. undergrad course, 5 week t
 * Redesigned and expanded the accelerated course to integrate contemporary marine policy frameworks, governance structures, fisheries management, and applied case analyses.
 * Led a writing-intensive sequence of weekly policy briefs and a final research paper supported by structured peer review and iterative feedback.
 * Supported students with varied preparation through scaffolded assignments and accessible materials that strengthened their ability to interpret ecological evidence and evaluate policy options.
+<br>
 
 ## University of Maine Courses
 
@@ -69,10 +74,16 @@ Course Designer & Instructor (2025-2026, hybrid asynchronous course)
 * Designed and delivered a hybrid Micro-Credential integrating self paced online modules with hands on field training in ROV operation and underwater survey methods
 * Created accessible instructional materials including video demonstrations, step by step technical guides, and scaffolded practice activities
 * Developed competency based assessments to evaluate learner proficiency in ROV maintenance, piloting, survey design, and data interpretation
+<br>
 
 **Small Boat Operations Micro-Credential**
 <br>
 In this micro-credential, you will learn to operate small vessels safely and confidently in a variety of marine environments. Through this training, you will develop the knowledge and hands-on skills needed to navigate and handle small boats, make sound decisions on the water, and respond effectively in emergency situations. You will gain experience in both classroom and real-world field settings, and your badges demonstrate that you are prepared to support research, education, and other marine operations that rely on safe and skilled vessel handling.
+
+Course Co-Designer (2025)
+* Helped design a Micro-Credential that integrated required safety training for use of university research vessels into course curriculum
+* Expanded activities and requirements for levels 2 and 3 trainings providing options for learners to gain experience on multiple research vessels and reflect on their experiences in different on-the-water conditions while conducting research on the water
+<br>
 
 **SMS352: Marine Ecology**
 <br>
@@ -87,6 +98,7 @@ Teaching Assistant (Fall 2020, Semester-by-the-Sea, 3 cr. undergrad course)
 * Produced field based instructional videos demonstrating sampling techniques, ecological concepts, and data collection methods for remote learners
 * Maintained course materials and supported student engagement through Brightspace, ensuring continuity and clarity during pandemic related disruptions
 * Adapted hands on field content into inclusive, online friendly learning modules that allowed students to practice ecological reasoning even without physical field access
+<br>
 
 ## Workshops and Trainings
 
@@ -96,6 +108,7 @@ Workshop Leader (Spring 2023, Grad Student Professional Development Retreat)
 * Designed and led an applied workshop on scientific graphics for research communication, with a focus on graphical abstracts, figure design, and integrating graphics and data
 * Taught principles of visual hierarchy, narrative flow, and multimodal communication, helping participants translate complex ecological and environmental datasets into clear, compelling visuals
 * Guided students through evaluating and redesigning figures for accessibility, including strategies for color vision–safe palettes, contrast optimization, and alternatives that reduce reliance on color
+<br>
 
 **Graduate Student Government Grant Writing Information Sessions** 
 <br>
